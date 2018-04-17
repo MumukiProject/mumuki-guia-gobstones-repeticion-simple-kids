@@ -1,9 +1,9 @@
 ---
-name: Repetición Simple Kids
+name: "\U0001F6A7 Repetición Simple"
 locale: es
 type: learning
 beta: false
-teacher_info: 
+teacher_info: ''
 language: gobstones
 id_format: "%05d"
 order: []
