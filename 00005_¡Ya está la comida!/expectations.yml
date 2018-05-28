@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: Recolectar Nectar
+  inspection: Uses:Repetir
+- binding: program
+  inspection: Uses:Volar Al
