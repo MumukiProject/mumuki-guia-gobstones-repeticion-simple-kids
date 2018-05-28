@@ -1,0 +1,3 @@
+¡Muy bien! Aprendimos a usar la sentencia `repetir`, con la que es mucho más fácil programar aquellas acciones que queremos ejecutar  varias veces :relieved:. Pero vimos también que no todo se repite, y que algunas acciones pueden cambiar o ser diferentes. 
+
+En este caso tuvimos que volar primero hasta la flor, y luego repetir la acción de sacar bolitas verdes. De ahora en más tendremos que prestar atención a esto, y ver qué se repite y qué no.
