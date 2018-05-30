@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: Danzar En Ocho
+  inspection: Uses:Repetir
+- binding: Danzar En Ocho
+  inspection: Uses:Danzar En Circulos
