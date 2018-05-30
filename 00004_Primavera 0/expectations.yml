@@ -1,6 +1,4 @@
 ---
 expectations:
-- binding: Recolectar Polen
-  inspection: Uses:repetir _ veces
 - binding: programa
   inspection: Uses:Volar Al_
