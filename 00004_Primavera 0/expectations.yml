@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: program
-  inspection: Uses:Recolectar_Polen
-- binding: Recolectar Polen
+  inspection: Uses:RecolectarPolen
+- binding: RecolectarPolen
   inspection: Uses:repeat
