@@ -2,3 +2,7 @@
 expectations:
 - binding: "*"
   inspection: Declares:RecolectarPolen
+- binding: RecoletarPolen
+  inspection: UsesRepeat
+- binding: "*"
+  inspection: Uses:RecolectarPolen
