@@ -1,6 +1,7 @@
 <gs-attire
   attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-simple-kids/master/assets/attires/config.json">
 </gs-attire>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-simple-kids/master/toolbox.xml"></gs-toolbox>
 
 Antes te contamos que las abejas hacen dos tipos de danzas, según qué tan lejos esté el alimento: la danza en círculos y la danza octana, que es como un 8 formado por dos danzas circulares una arriba de la otra. :wink:
 

@@ -1,6 +1,7 @@
 <gs-attire
   attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-simple-kids/master/assets/attires/config.json">
 </gs-attire>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-simple-kids/master/toolbox.xml"></gs-toolbox>
 
 Llegó la primavera y crecieron muchísimas flores hermosas. Las abejas obreras están listas para recolectar todo el polen que puedan. ¡Enseñémosle a nuestra abeja robot  cómo hacer lo mismo! :blush: 
 
