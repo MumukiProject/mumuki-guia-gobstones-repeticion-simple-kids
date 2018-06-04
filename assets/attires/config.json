@@ -1,0 +1,117 @@
+{
+  "enabled": true,
+  "rules": [
+    {
+      "when": { "blue": 0, "black": 0, "red": 0, "green": 0 },
+      "image": ".../pasto.png"
+    },
+    {
+      "when": { "blue": 0, "black": 1, "red": 0, "green": 0 },
+      "image": ".../pasto-con-abeja.png"
+    },
+    {
+      "when": { "blue": 0, "black": 0, "red": 0, "green": 1 },
+      "image": ".../pasto-con-poco-polen.png"
+    },
+    {
+      "when": { "blue": 0, "black": 0, "red": 0, "green": 2 },
+      "image": ".../pasto-con-medio-polen.png"
+    },
+    {
+      "when": { "blue": 0, "black": 0, "red": 0, "green": 3 },
+      "image": ".../pasto-con-mucho-polen.png"
+    },
+    {
+      "when": { "blue": 0, "black": 1, "red": 0, "green": 1 },
+      "image": ".../poco-polen-con-abeja.png"
+    },
+    {
+      "when": { "blue": 0, "black": 1, "red": 0, "green": 2 },
+      "image": ".../medio-polen-con-abeja.png"
+    },
+    {
+      "when": { "blue": 0, "black": 1, "red": 0, "green": 3 },
+      "image": ".../mucho-polen-con-abeja.png"
+    },
+    {
+      "when": { "blue": 1, "black": 0, "red": 0, "green": 0 },
+      "image": ".../flor-blanca.png"
+    },
+    {
+      "when": { "blue": 1, "black": 0, "red": 0, "green": 5 },
+      "image": ".../flor-blanca.png"
+    },
+    {
+      "when": { "blue": 1, "black": 0, "red": 4, "green": 0 },
+      "image": ".../flor-blanca.png"
+    },
+    {
+      "when": { "blue": 1, "black": 0, "red": 4, "green": 5 },
+      "image": ".../flor-blanca.png"
+    },
+    {
+      "when": { "blue": 3, "black": 0, "red": 12, "green": 15 },
+      "image": ".../flor-blanca.png"
+    },
+    {
+      "when": { "blue": 4, "black": 0, "red": 16, "green": 20 },
+      "image": ".../flor-blanca.png"
+    },
+    {
+      "when": { "blue": 5, "black": 0, "red": 20, "green": 25 },
+      "image": ".../flor-blanca.png"
+    },
+    {
+      "when": { "blue": 1, "black": 1, "red": 0, "green": 0 },
+      "image": ".../flor-blanca-con-abeja.png"
+    },
+    {
+      "when": { "blue": 1, "black": 1, "red": 0, "green": 5 },
+      "image": ".../flor-blanca-con-abeja.png"
+    },
+    {
+      "when": { "blue": 1, "black": 1, "red": 4, "green": 0 },
+      "image": ".../flor-blanca-con-abeja.png"
+    },
+    {
+      "when": { "blue": 1, "black": 1, "red": 4, "green": 5 },
+      "image": ".../flor-blanca-con-abeja.png"
+    },
+    {
+      "when": { "blue": 3, "black": 1, "red": 12, "green": 15 },
+      "image": ".../flor-blanca-con-abeja.png"
+    },
+    {
+      "when": { "blue": 4, "black": 1, "red": 16, "green": 20 },
+      "image": ".../flor-blanca-con-abeja.png"
+    },
+    {
+      "when": { "blue": 5, "black": 1, "red": 20, "green": 25 },
+      "image": ".../flor-blanca-con-abeja.png"
+    },
+    {
+      "when": { "blue": 2, "black": 0, "red": 0, "green": 0 },
+      "image": ".../flor-roja.png"
+    },
+    {
+      "when": { "blue": 2, "black": 1, "red": 0, "green": 0 },
+      "image": ".../flor-roja-con-abeja.png"
+    },
+    {
+      "when": { "blue": 2, "black": 0, "red": 0, "green": 1 },
+      "image": ".../tomate.png"
+    },
+    {
+      "when": { "blue": 2, "black": 1, "red": 0, "green": 1 },
+      "image": ".../tomate-con-abeja.png"
+    },
+    {
+      "when": { "blue": 0, "black": 10, "red": 0, "green": 0 },
+      "image": ".../colmena.png"
+    },
+    {
+      "when": { "blue": 0, "black": 11, "red": 0, "green": 0 },
+      "image": ".../colmena-con-abeja.png"
+    }
+  ]
+}
