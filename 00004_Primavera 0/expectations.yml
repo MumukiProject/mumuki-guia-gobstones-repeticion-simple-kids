@@ -4,5 +4,5 @@ expectations:
   inspection: Declares:RecolectarPolen
 - binding: RecolectarPolen
   inspection: UsesRepeat
-- binding: "*"
+- binding: program
   inspection: Uses:RecolectarPolen
