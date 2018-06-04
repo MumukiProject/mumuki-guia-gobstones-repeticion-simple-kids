@@ -1,6 +1,7 @@
 <gs-attire
   attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-simple-kids/master/assets/attires/config.json">
 </gs-attire>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-simple-kids/master/toolbox.xml"></gs-toolbox>
 
 Como te contamos, las abejas son polinizadoras muy importantes que recolectan el polen de las flores masculinas y, durante su vuelo, lo distribuyen en otras plantas femeninas con lo que se fertilizan. 
 
