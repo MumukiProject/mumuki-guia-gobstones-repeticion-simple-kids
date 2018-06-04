@@ -8,4 +8,5 @@
   <block type="ColorSelector"></block>
   <block type="DireccionSelector"></block>
 </category>
+
 <category name="Procedimientos primitivos"> </category>
