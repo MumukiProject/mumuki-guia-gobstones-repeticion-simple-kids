@@ -4,3 +4,5 @@ expectations:
   inspection: UsesRepeat
 - binding: program
   inspection: Uses:VolarAl_
+- binding: RecolectarNectar
+  inspection: Not:Uses:VolarAl_
