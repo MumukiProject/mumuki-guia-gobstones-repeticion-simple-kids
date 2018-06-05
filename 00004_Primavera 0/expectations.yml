@@ -1,7 +1,5 @@
 ---
 expectations:
-- binding: "*"
-  inspection: Declares:RecolectarPolen
 - binding: RecolectarPolen
   inspection: UsesRepeat
 - binding: program
