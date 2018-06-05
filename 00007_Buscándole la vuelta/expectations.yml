@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: Danzar En Circulos
-  inspection: Uses:Dar Una Vuelta
+- binding: DanzarEnCirculos
+  inspection: Uses:DarUnaVuelta
