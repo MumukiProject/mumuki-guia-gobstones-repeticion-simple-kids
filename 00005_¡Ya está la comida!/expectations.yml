@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: Recolectar Nectar
-  inspection: Uses:Repetir
+  inspection: UsesRepeat
 - binding: program
-  inspection: Uses:Volar Al
+  inspection: Uses:VolarAl
