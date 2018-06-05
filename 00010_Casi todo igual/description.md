@@ -7,4 +7,4 @@ En este ejercicio veremos una complicación más que puede tener el bloque `repe
 
 Descubriremos entonces cómo tratar esta situación especial. :grinning:
 
-> Modificá este programa para que nuestra abeja recolecte el polen de las flores sin pasarse de la última. No vale sacar la sentencia `repetir`. 
+> Modificá este programa para que nuestra abeja recolecte el polen de las flores sin pasarse de la última. No vale sacar la estructura `repetir`. 
