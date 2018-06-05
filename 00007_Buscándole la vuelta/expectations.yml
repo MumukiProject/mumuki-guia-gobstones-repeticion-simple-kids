@@ -2,5 +2,3 @@
 expectations:
 - binding: DanzarEnCirculos
   inspection: Uses:DarUnaVuelta
-- binding: program
-  inspection: Uses:DanzarEnCirculos
