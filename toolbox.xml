@@ -7,6 +7,7 @@
 <category name="Colores y Direcciones">
   <block type="ColorSelector"></block>
   <block type="DireccionSelector"></block>
+  <block type="math_number"></block>
 </category>
 
 <category name="Procedimientos primitivos"> </category>
