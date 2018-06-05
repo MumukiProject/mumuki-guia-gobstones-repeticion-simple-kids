@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: Recolectar Nectar
+- binding: RecolectarNectar
   inspection: UsesRepeat
