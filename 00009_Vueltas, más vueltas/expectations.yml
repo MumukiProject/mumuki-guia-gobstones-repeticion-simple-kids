@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: DanzarEnOcho
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DanzarEnOcho
   inspection: UsesRepeat
-- binding: DanzarEnOcho
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DanzarEnOcho
   inspection: Uses:DanzarEnCirculos

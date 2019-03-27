@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: DanzarEnCirculos
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DanzarEnCirculos
   inspection: Uses:DarUnaVuelta

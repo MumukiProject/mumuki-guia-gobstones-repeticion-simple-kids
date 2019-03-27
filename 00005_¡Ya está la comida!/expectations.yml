@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: RecolectarNectar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: RecolectarNectar
   inspection: UsesRepeat
-- binding: program
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
   inspection: Uses:VolarAl_
-- binding: RecolectarNectar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: RecolectarNectar
   inspection: Not:Uses:VolarAl_
