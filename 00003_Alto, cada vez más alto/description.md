@@ -5,5 +5,5 @@
 
 Ahora que conocemos la _estructura de control_ `repetir`, te toca a vos usarla para que la abeja llegue muy lejos. :raised_hand:
 
-> Te dejamos acá el programa anterior. Modificalo para que la abeja llegue al Norte. Contá cuántas parcelas debería recorrer. 
+> Te dejamos acá el `programa` anterior. Modificalo para que la abeja llegue al `Norte`. Contá cuántas parcelas debería recorrer. 
 
