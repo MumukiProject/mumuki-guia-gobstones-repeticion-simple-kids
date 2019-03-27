@@ -7,4 +7,4 @@ Como te contamos, las abejas :bee: son polinizadoras muy importantes que recolec
 
 Para eso, recorren grandes distancias diariamente. Así que, programemos a nuestra abeja robot para que pueda hacer el mismo trabajo que las abejas obreras. :blush:
 
-> Leé el programa que te dejamos para entender cómo hacer volar a la abeja. Luego ejecutalo y mirala en acción. :smile:
+> Leé el `programa` que te dejamos para entender cómo hacer volar a la abeja. Luego ejecutalo y mirala en acción. :smile:
