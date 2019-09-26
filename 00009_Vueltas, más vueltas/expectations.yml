@@ -6,3 +6,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: DanzarEnOcho
   inspection: Uses:DanzarEnCirculos
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:DanzarEnOcho
