@@ -7,4 +7,4 @@ Con todo lo que programaste hasta acá, ya podemos armar un programa para que nu
 
 Parece un gran problema, pero lo bueno es que ya tenemos una solución para cada pequeña situación. :smiley:
 
-> Armá el `programa` para que nuestra abeja haga una `danza circular`; luego, `vuele` hasta la flor blanca para `recolectar polen y néctar`. Con el polen deberá `polinizar` las flores rojas, y con lo que le sobre podrá volver a la colmena. 
+> Armá el `programa` para que nuestra abeja haga una `danza circular`; luego, `vuele` hasta la flor blanca para `recolectar polen y néctar`. Con el polen deberá `polinizar` las flores rojas, y luego podrá volver a la colmena. 
